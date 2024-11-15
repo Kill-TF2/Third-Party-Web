@@ -1,1 +1,9 @@
-[]
+{
+  "Player123": [
+    {"username": "User1", "message": "Hello Player123! Check out the new update!"},
+    {"username": "User2", "message": "Hey, want to team up?"}
+  ],
+  "Player456": [
+    {"username": "User3", "message": "Your game is awesome!"}
+  ]
+}
